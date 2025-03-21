@@ -1,0 +1,144 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=U1_Ch0(CP_32_11_ADI)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U1_Ch1(CP_32_11_ADI)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U1_Ch2(CP_32_11_ADI)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U1_Ch3(CP_32_11_ADI)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR4_Ch0_1 Pin=U1_Ch0-1
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch0-2
+Added Pin To Net: NetName=NetC35_Ch0_2 Pin=U1_Ch0-3
+Added Pin To Net: NetName=DATA_IN_C_Ch0_N Pin=U1_Ch0-4
+Added Pin To Net: NetName=DATA_IN_C_Ch0_P Pin=U1_Ch0-5
+Added Pin To Net: NetName=GND Pin=U1_Ch0-6
+Added Pin To Net: NetName=GND Pin=U1_Ch0-7
+Added Pin To Net: NetName=GND Pin=U1_Ch0-8
+Added Pin To Net: NetName=NetR7_Ch0_2 Pin=U1_Ch0-9
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch0-10
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch0-12
+Added Pin To Net: NetName=GND Pin=U1_Ch0-13
+Added Pin To Net: NetName=NetC39_Ch0_1 Pin=U1_Ch0-14
+Added Pin To Net: NetName=NetC39_Ch0_2 Pin=U1_Ch0-15
+Added Pin To Net: NetName=LOL_Ch0 Pin=U1_Ch0-16
+Added Pin To Net: NetName=GND Pin=U1_Ch0-17
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch0-18
+Added Pin To Net: NetName=GND Pin=U1_Ch0-19
+Added Pin To Net: NetName=SCL_CDR_0 Pin=U1_Ch0-20
+Added Pin To Net: NetName=SDA_CDR_0 Pin=U1_Ch0-21
+Added Pin To Net: NetName=LOS_Ch0 Pin=U1_Ch0-22
+Added Pin To Net: NetName=GND Pin=U1_Ch0-23
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch0-24
+Added Pin To Net: NetName=CLOCK_OUT_Ch0_N Pin=U1_Ch0-25
+Added Pin To Net: NetName=CLOCK_OUT_Ch0_P Pin=U1_Ch0-26
+Added Pin To Net: NetName=GND Pin=U1_Ch0-27
+Added Pin To Net: NetName=GND Pin=U1_Ch0-30
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch0-31
+Added Pin To Net: NetName=NetR3_Ch0_1 Pin=U1_Ch0-32
+Added Pin To Net: NetName=GND Pin=U1_Ch0-33
+Added Pin To Net: NetName=NetR4_Ch1_1 Pin=U1_Ch1-1
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch1-2
+Added Pin To Net: NetName=NetC35_Ch1_2 Pin=U1_Ch1-3
+Added Pin To Net: NetName=DATA_IN_C_Ch1_N Pin=U1_Ch1-4
+Added Pin To Net: NetName=DATA_IN_C_Ch1_P Pin=U1_Ch1-5
+Added Pin To Net: NetName=GND Pin=U1_Ch1-6
+Added Pin To Net: NetName=GND Pin=U1_Ch1-7
+Added Pin To Net: NetName=GND Pin=U1_Ch1-8
+Added Pin To Net: NetName=NetR7_Ch1_2 Pin=U1_Ch1-9
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch1-10
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch1-12
+Added Pin To Net: NetName=GND Pin=U1_Ch1-13
+Added Pin To Net: NetName=NetC39_Ch1_1 Pin=U1_Ch1-14
+Added Pin To Net: NetName=NetC39_Ch1_2 Pin=U1_Ch1-15
+Added Pin To Net: NetName=LOL_Ch1 Pin=U1_Ch1-16
+Added Pin To Net: NetName=GND Pin=U1_Ch1-17
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch1-18
+Added Pin To Net: NetName=GND Pin=U1_Ch1-19
+Added Pin To Net: NetName=SCL_CDR_1 Pin=U1_Ch1-20
+Added Pin To Net: NetName=SDA_CDR_1 Pin=U1_Ch1-21
+Added Pin To Net: NetName=LOS_Ch1 Pin=U1_Ch1-22
+Added Pin To Net: NetName=GND Pin=U1_Ch1-23
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch1-24
+Added Pin To Net: NetName=CLOCK_OUT_Ch1_N Pin=U1_Ch1-25
+Added Pin To Net: NetName=CLOCK_OUT_Ch1_P Pin=U1_Ch1-26
+Added Pin To Net: NetName=GND Pin=U1_Ch1-27
+Added Pin To Net: NetName=GND Pin=U1_Ch1-30
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch1-31
+Added Pin To Net: NetName=NetR3_Ch1_1 Pin=U1_Ch1-32
+Added Pin To Net: NetName=GND Pin=U1_Ch1-33
+Added Pin To Net: NetName=NetR4_Ch2_1 Pin=U1_Ch2-1
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch2-2
+Added Pin To Net: NetName=NetC35_Ch2_2 Pin=U1_Ch2-3
+Added Pin To Net: NetName=DATA_IN_C_Ch2_N Pin=U1_Ch2-4
+Added Pin To Net: NetName=DATA_IN_C_Ch2_P Pin=U1_Ch2-5
+Added Pin To Net: NetName=GND Pin=U1_Ch2-6
+Added Pin To Net: NetName=GND Pin=U1_Ch2-7
+Added Pin To Net: NetName=GND Pin=U1_Ch2-8
+Added Pin To Net: NetName=NetR7_Ch2_2 Pin=U1_Ch2-9
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch2-10
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch2-12
+Added Pin To Net: NetName=GND Pin=U1_Ch2-13
+Added Pin To Net: NetName=NetC39_Ch2_1 Pin=U1_Ch2-14
+Added Pin To Net: NetName=NetC39_Ch2_2 Pin=U1_Ch2-15
+Added Pin To Net: NetName=LOL_Ch2 Pin=U1_Ch2-16
+Added Pin To Net: NetName=GND Pin=U1_Ch2-17
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch2-18
+Added Pin To Net: NetName=GND Pin=U1_Ch2-19
+Added Pin To Net: NetName=SCL_CDR_2 Pin=U1_Ch2-20
+Added Pin To Net: NetName=SDA_CDR_2 Pin=U1_Ch2-21
+Added Pin To Net: NetName=LOS_Ch2 Pin=U1_Ch2-22
+Added Pin To Net: NetName=GND Pin=U1_Ch2-23
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch2-24
+Added Pin To Net: NetName=CLOCK_OUT_Ch2_N Pin=U1_Ch2-25
+Added Pin To Net: NetName=CLOCK_OUT_Ch2_P Pin=U1_Ch2-26
+Added Pin To Net: NetName=GND Pin=U1_Ch2-27
+Added Pin To Net: NetName=GND Pin=U1_Ch2-30
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch2-31
+Added Pin To Net: NetName=NetR3_Ch2_1 Pin=U1_Ch2-32
+Added Pin To Net: NetName=GND Pin=U1_Ch2-33
+Added Pin To Net: NetName=NetR4_Ch3_1 Pin=U1_Ch3-1
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch3-2
+Added Pin To Net: NetName=NetC35_Ch3_2 Pin=U1_Ch3-3
+Added Pin To Net: NetName=DATA_IN_C_Ch3_N Pin=U1_Ch3-4
+Added Pin To Net: NetName=DATA_IN_C_Ch3_P Pin=U1_Ch3-5
+Added Pin To Net: NetName=GND Pin=U1_Ch3-6
+Added Pin To Net: NetName=GND Pin=U1_Ch3-7
+Added Pin To Net: NetName=GND Pin=U1_Ch3-8
+Added Pin To Net: NetName=NetR7_Ch3_2 Pin=U1_Ch3-9
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch3-10
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch3-12
+Added Pin To Net: NetName=GND Pin=U1_Ch3-13
+Added Pin To Net: NetName=NetC39_Ch3_1 Pin=U1_Ch3-14
+Added Pin To Net: NetName=NetC39_Ch3_2 Pin=U1_Ch3-15
+Added Pin To Net: NetName=LOL_Ch3 Pin=U1_Ch3-16
+Added Pin To Net: NetName=GND Pin=U1_Ch3-17
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch3-18
+Added Pin To Net: NetName=GND Pin=U1_Ch3-19
+Added Pin To Net: NetName=SCL_CDR_3 Pin=U1_Ch3-20
+Added Pin To Net: NetName=SDA_CDR_3 Pin=U1_Ch3-21
+Added Pin To Net: NetName=LOS_Ch3 Pin=U1_Ch3-22
+Added Pin To Net: NetName=GND Pin=U1_Ch3-23
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch3-24
+Added Pin To Net: NetName=CLOCK_OUT_Ch3_N Pin=U1_Ch3-25
+Added Pin To Net: NetName=CLOCK_OUT_Ch3_P Pin=U1_Ch3-26
+Added Pin To Net: NetName=GND Pin=U1_Ch3-27
+Added Pin To Net: NetName=GND Pin=U1_Ch3-30
+Added Pin To Net: NetName=3V3CDR Pin=U1_Ch3-31
+Added Pin To Net: NetName=NetR3_Ch3_1 Pin=U1_Ch3-32
+Added Pin To Net: NetName=GND Pin=U1_Ch3-33
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

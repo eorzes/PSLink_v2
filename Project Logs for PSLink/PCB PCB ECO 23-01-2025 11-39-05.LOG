@@ -1,0 +1,36 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Net Color : Old Net Color=Fuchsia New Net Color=RGB(135, 28, 174)
+Change Net Color : Old Net Color=Fuchsia New Net Color=RGB(135, 28, 174)
+Change Net Color : Old Net Color=Fuchsia New Net Color=RGB(135, 28, 174)
+Change Net Color : Old Net Color=Fuchsia New Net Color=RGB(135, 28, 174)
+Change Net Color : Old Net Color=Fuchsia New Net Color=RGB(135, 28, 174)
+Change Net Color : Old Net Color=Fuchsia New Net Color=RGB(135, 28, 174)
+Change Net Color : Old Net Color=Fuchsia New Net Color=RGB(135, 28, 174)
+Change Net Color : Old Net Color=Fuchsia New Net Color=RGB(135, 28, 174)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Blue
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Blue
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Blue
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Blue
+Change Net Color : Old Net Color=White New Net Color=Black
+Change Net Color : Old Net Color=White New Net Color=Black
+Change Net Color : Old Net Color=Black New Net Color=White
+Change Net Color : Old Net Color=Black New Net Color=White
+Change Net Color : Old Net Color=White New Net Color=Black
+Change Net Color : Old Net Color=White New Net Color=Black
+Change Net Color : Old Net Color=Black New Net Color=White
+Change Net Color : Old Net Color=Black New Net Color=White
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Blue
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Blue
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Blue
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Blue
+Added Member To Class: ClassName=Match_DFF_FPGA Member=Wire DDCLK4_N
+Added Member To Class: ClassName=Match_DFF_FPGA Member=Wire DDCLK4_P
+Added Member To Class: ClassName=Match_DFF_FPGA Member=Wire DMTD_CLK_FPGA_N
+Added Member To Class: ClassName=Match_DFF_FPGA Member=Wire DMTD_CLK_FPGA_P
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

@@ -1,0 +1,62 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=IC7(QFN50P900X900X90-65N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.sg/datasheet/2/472/si5345_44_42_d_datasheet-2507675.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Skyworks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SI5345B-D-GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "634-SI5345B-D-GM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SI5345B-D-GM?qs=p9T7GgSe1IGHqFUKlxUKrA%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XTAL_KYOCERA_CX3225SB
+Added Pin To Net: NetName=IN1_P Pin=IC7-1
+Added Pin To Net: NetName=IN1_N Pin=IC7-2
+Added Pin To Net: NetName=NetIC7_3 Pin=IC7-3
+Added Pin To Net: NetName=GND Pin=IC7-4
+Added Pin To Net: NetName=PLL_RSTb Pin=IC7-6
+Added Pin To Net: NetName=NetIC7_7 Pin=IC7-7
+Added Pin To Net: NetName=NetIC7_8 Pin=IC7-8
+Added Pin To Net: NetName=NetIC7_9 Pin=IC7-9
+Added Pin To Net: NetName=NetIC7_7 Pin=IC7-10
+Added Pin To Net: NetName=3V3APLL Pin=IC7-13
+Added Pin To Net: NetName=NetIC7_16 Pin=IC7-16
+Added Pin To Net: NetName=GND Pin=IC7-17
+Added Pin To Net: NetName=NetIC7_18 Pin=IC7-18
+Added Pin To Net: NetName=GND Pin=IC7-19
+Added Pin To Net: NetName=1V8 Pin=IC7-26
+Added Pin To Net: NetName=DDCLK4_N Pin=IC7-27
+Added Pin To Net: NetName=DDCLK4_P Pin=IC7-28
+Added Pin To Net: NetName=1V8 Pin=IC7-29
+Added Pin To Net: NetName=DDCLK_N Pin=IC7-30
+Added Pin To Net: NetName=DDCLK_P Pin=IC7-31
+Added Pin To Net: NetName=1V8 Pin=IC7-32
+Added Pin To Net: NetName=1V8 Pin=IC7-46
+Added Pin To Net: NetName=PLL_Lock Pin=IC7-47
+Added Pin To Net: NetName=1V8 Pin=IC7-49
+Added Pin To Net: NetName=PLL_OUTA_N Pin=IC7-50
+Added Pin To Net: NetName=PLL_OUTA_P Pin=IC7-51
+Added Pin To Net: NetName=1V8 Pin=IC7-52
+Added Pin To Net: NetName=PLL_OUT_N Pin=IC7-53
+Added Pin To Net: NetName=PLL_OUT_P Pin=IC7-54
+Added Pin To Net: NetName=1V8 Pin=IC7-57
+Added Pin To Net: NetName=FB_OUT_P Pin=IC7-58
+Added Pin To Net: NetName=FB_OUT_N Pin=IC7-59
+Added Pin To Net: NetName=1V8 Pin=IC7-60
+Added Pin To Net: NetName=FB_IN_N Pin=IC7-61
+Added Pin To Net: NetName=FB_IN_P Pin=IC7-62
+Added Pin To Net: NetName=IN0_P Pin=IC7-63
+Added Pin To Net: NetName=IN0_N Pin=IC7-64
+Added Pin To Net: NetName=GND Pin=IC7-65
+Add Pin To Net: Unknown Pin: Pin Q11-1
+Add Pin To Net: Unknown Pin: Pin Q11-2
+Add Pin To Net: Unknown Pin: Pin Q11-3
+Add Pin To Net: Unknown Pin: Pin Q11-4
+Added Member To Class: ClassName=U_PLL Member=Component IC7 SI5345B-D-GM
+Add Class Member: Failed to add class member : Component Q11 48MHz
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

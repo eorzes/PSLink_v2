@@ -1,0 +1,112 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=IC1_Ch0(QFN50P300X300X100-17N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NB7V52MMNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nb7v52mmng/on-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pdf/datasheet/nb7v52m-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NB7V52MMNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NB7V52MMNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NB7V52MMNG?qs=N5dOQkml4H8i91m%252BmwlaUQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_Ch1(QFN50P300X300X100-17N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NB7V52MMNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nb7v52mmng/on-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pdf/datasheet/nb7v52m-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NB7V52MMNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NB7V52MMNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NB7V52MMNG?qs=N5dOQkml4H8i91m%252BmwlaUQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_Ch2(QFN50P300X300X100-17N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NB7V52MMNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nb7v52mmng/on-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pdf/datasheet/nb7v52m-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NB7V52MMNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NB7V52MMNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NB7V52MMNG?qs=N5dOQkml4H8i91m%252BmwlaUQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC1_Ch3(QFN50P300X300X100-17N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NB7V52MMNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nb7v52mmng/on-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pdf/datasheet/nb7v52m-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NB7V52MMNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NB7V52MMNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NB7V52MMNG?qs=N5dOQkml4H8i91m%252BmwlaUQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VREFAC Pin=IC1_Ch0-1
+Added Pin To Net: NetName=CLOCK_OUT_C_Ch0_P Pin=IC1_Ch0-2
+Added Pin To Net: NetName=CLOCK_OUT_C_Ch0_N Pin=IC1_Ch0-3
+Added Pin To Net: NetName=VREFAC Pin=IC1_Ch0-4
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch0-5
+Added Pin To Net: NetName=DDCLK0_P Pin=IC1_Ch0-6
+Added Pin To Net: NetName=DDCLK0_N Pin=IC1_Ch0-7
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch0-8
+Added Pin To Net: NetName=GND Pin=IC1_Ch0-9
+Added Pin To Net: NetName=BEAT_Ch0_N Pin=IC1_Ch0-10
+Added Pin To Net: NetName=BEAT_Ch0_P Pin=IC1_Ch0-11
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch0-12
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch0-13
+Added Pin To Net: NetName=VREFAC Pin=IC1_Ch0-14
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch0-15
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch0-16
+Added Pin To Net: NetName=GND Pin=IC1_Ch0-17
+Added Pin To Net: NetName=VREFAC Pin=IC1_Ch1-1
+Added Pin To Net: NetName=CLOCK_OUT_C_Ch1_P Pin=IC1_Ch1-2
+Added Pin To Net: NetName=CLOCK_OUT_C_Ch1_N Pin=IC1_Ch1-3
+Added Pin To Net: NetName=VREFAC Pin=IC1_Ch1-4
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch1-5
+Added Pin To Net: NetName=DDCLK3_P Pin=IC1_Ch1-6
+Added Pin To Net: NetName=DDCLK3_N Pin=IC1_Ch1-7
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch1-8
+Added Pin To Net: NetName=GND Pin=IC1_Ch1-9
+Added Pin To Net: NetName=BEAT_Ch1_N Pin=IC1_Ch1-10
+Added Pin To Net: NetName=BEAT_Ch1_P Pin=IC1_Ch1-11
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch1-12
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch1-13
+Added Pin To Net: NetName=VREFAC Pin=IC1_Ch1-14
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch1-15
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch1-16
+Added Pin To Net: NetName=GND Pin=IC1_Ch1-17
+Added Pin To Net: NetName=VREFAC Pin=IC1_Ch2-1
+Added Pin To Net: NetName=CLOCK_OUT_C_Ch2_P Pin=IC1_Ch2-2
+Added Pin To Net: NetName=CLOCK_OUT_C_Ch2_N Pin=IC1_Ch2-3
+Added Pin To Net: NetName=VREFAC Pin=IC1_Ch2-4
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch2-5
+Added Pin To Net: NetName=DDCLK2_P Pin=IC1_Ch2-6
+Added Pin To Net: NetName=DDCLK2_N Pin=IC1_Ch2-7
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch2-8
+Added Pin To Net: NetName=GND Pin=IC1_Ch2-9
+Added Pin To Net: NetName=BEAT_Ch2_N Pin=IC1_Ch2-10
+Added Pin To Net: NetName=BEAT_Ch2_P Pin=IC1_Ch2-11
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch2-12
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch2-13
+Added Pin To Net: NetName=VREFAC Pin=IC1_Ch2-14
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch2-15
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch2-16
+Added Pin To Net: NetName=GND Pin=IC1_Ch2-17
+Added Pin To Net: NetName=VREFAC Pin=IC1_Ch3-1
+Added Pin To Net: NetName=CLOCK_OUT_C_Ch3_P Pin=IC1_Ch3-2
+Added Pin To Net: NetName=CLOCK_OUT_C_Ch3_N Pin=IC1_Ch3-3
+Added Pin To Net: NetName=VREFAC Pin=IC1_Ch3-4
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch3-5
+Added Pin To Net: NetName=DDCLK1_P Pin=IC1_Ch3-6
+Added Pin To Net: NetName=DDCLK1_N Pin=IC1_Ch3-7
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch3-8
+Added Pin To Net: NetName=GND Pin=IC1_Ch3-9
+Added Pin To Net: NetName=BEAT_Ch3_N Pin=IC1_Ch3-10
+Added Pin To Net: NetName=BEAT_Ch3_P Pin=IC1_Ch3-11
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch3-12
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch3-13
+Added Pin To Net: NetName=VREFAC Pin=IC1_Ch3-14
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch3-15
+Added Pin To Net: NetName=1V8 Pin=IC1_Ch3-16
+Added Pin To Net: NetName=GND Pin=IC1_Ch3-17
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

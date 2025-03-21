@@ -1,0 +1,21 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=Jmx0(SAMTEC_MMCX-J-P-H-ST-MT1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMCX-J-P-H-ST-MT1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Jmx0-1
+Added Pin To Net: NetName=GND Pin=Jmx0-S1
+Added Pin To Net: NetName=GND Pin=Jmx0-S2
+Added Pin To Net: NetName=GND Pin=Jmx0-S3
+Added Pin To Net: NetName=GND Pin=Jmx0-S4
+Added Member To Class: ClassName=U_phase-shifters Member=Component Jmx0 MMCX-J-P-H-ST-MT1
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

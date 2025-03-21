@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=1V8 Pin=W8-1
+Removed Member From Class: ClassName=U_PLL Member=W8
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Pin To Net: NetName=EQ_EN Pin=IC9-5
+Added Pin To Net: NetName=EQ_EN Pin=J4-G18
+Added Net: Name=EQ_EN
+Added Member To Class: ClassName=Back-Drill Member=Wire DDCLK_N
+Added Member To Class: ClassName=Back-Drill Member=Wire DDCLK_P
+Added Member To Class: ClassName=Back-Drill Member=Wire DDCLKC_N
+Added Member To Class: ClassName=Back-Drill Member=Wire DDCLKC_P
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

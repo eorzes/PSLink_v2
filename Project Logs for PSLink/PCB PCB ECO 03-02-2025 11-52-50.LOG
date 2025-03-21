@@ -1,0 +1,96 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=IC2_Ch0(QFN50P300X300X100-17N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nb7vq14mmnhtbg/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/NB7VQ14M-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/NB7VQ14MMNHTBG?qs=3PKVEWFFm2%2FWq%2FFZ4xstfg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC2_Ch1(QFN50P300X300X100-17N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nb7vq14mmnhtbg/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/NB7VQ14M-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/NB7VQ14MMNHTBG?qs=3PKVEWFFm2%2FWq%2FFZ4xstfg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC2_Ch2(QFN50P300X300X100-17N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nb7vq14mmnhtbg/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/NB7VQ14M-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/NB7VQ14MMNHTBG?qs=3PKVEWFFm2%2FWq%2FFZ4xstfg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC2_Ch3(QFN50P300X300X100-17N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nb7vq14mmnhtbg/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/NB7VQ14M-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/NB7VQ14MMNHTBG?qs=3PKVEWFFm2%2FWq%2FFZ4xstfg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SFP_RX0_P Pin=IC2_Ch0-1
+Added Pin To Net: NetName=NetC38_Ch0_2 Pin=IC2_Ch0-2
+Added Pin To Net: NetName=NetC38_Ch0_2 Pin=IC2_Ch0-3
+Added Pin To Net: NetName=SFP_RX0_N Pin=IC2_Ch0-4
+Added Pin To Net: NetName=NetIC2_Ch0_5 Pin=IC2_Ch0-5
+Added Pin To Net: NetName=1V8 Pin=IC2_Ch0-8
+Added Pin To Net: NetName=FPGA_RX0_N Pin=IC2_Ch0-9
+Added Pin To Net: NetName=FPGA_RX0_P Pin=IC2_Ch0-10
+Added Pin To Net: NetName=IN_Ch0_N Pin=IC2_Ch0-11
+Added Pin To Net: NetName=IN_Ch0_P Pin=IC2_Ch0-12
+Added Pin To Net: NetName=1V8 Pin=IC2_Ch0-13
+Added Pin To Net: NetName=GND Pin=IC2_Ch0-16
+Added Pin To Net: NetName=GND Pin=IC2_Ch0-17
+Added Pin To Net: NetName=FPGA_TX1_C_P Pin=IC2_Ch1-1
+Added Pin To Net: NetName=NetC38_Ch1_2 Pin=IC2_Ch1-2
+Added Pin To Net: NetName=NetC38_Ch1_2 Pin=IC2_Ch1-3
+Added Pin To Net: NetName=FPGA_TX1_C_N Pin=IC2_Ch1-4
+Added Pin To Net: NetName=NetIC2_Ch1_5 Pin=IC2_Ch1-5
+Added Pin To Net: NetName=1V8 Pin=IC2_Ch1-8
+Added Pin To Net: NetName=SFP_TX1_N Pin=IC2_Ch1-9
+Added Pin To Net: NetName=SFP_TX1_P Pin=IC2_Ch1-10
+Added Pin To Net: NetName=IN_Ch1_N Pin=IC2_Ch1-11
+Added Pin To Net: NetName=IN_Ch1_P Pin=IC2_Ch1-12
+Added Pin To Net: NetName=1V8 Pin=IC2_Ch1-13
+Added Pin To Net: NetName=GND Pin=IC2_Ch1-16
+Added Pin To Net: NetName=GND Pin=IC2_Ch1-17
+Added Pin To Net: NetName=SFP_RX1_P Pin=IC2_Ch2-1
+Added Pin To Net: NetName=NetC38_Ch2_2 Pin=IC2_Ch2-2
+Added Pin To Net: NetName=NetC38_Ch2_2 Pin=IC2_Ch2-3
+Added Pin To Net: NetName=SFP_RX1_N Pin=IC2_Ch2-4
+Added Pin To Net: NetName=NetIC2_Ch2_5 Pin=IC2_Ch2-5
+Added Pin To Net: NetName=1V8 Pin=IC2_Ch2-8
+Added Pin To Net: NetName=FPGA_RX1_N Pin=IC2_Ch2-9
+Added Pin To Net: NetName=FPGA_RX1_P Pin=IC2_Ch2-10
+Added Pin To Net: NetName=IN_Ch2_N Pin=IC2_Ch2-11
+Added Pin To Net: NetName=IN_Ch2_P Pin=IC2_Ch2-12
+Added Pin To Net: NetName=1V8 Pin=IC2_Ch2-13
+Added Pin To Net: NetName=GND Pin=IC2_Ch2-16
+Added Pin To Net: NetName=GND Pin=IC2_Ch2-17
+Added Pin To Net: NetName=FPGA_TX0_C_P Pin=IC2_Ch3-1
+Added Pin To Net: NetName=NetC38_Ch3_2 Pin=IC2_Ch3-2
+Added Pin To Net: NetName=NetC38_Ch3_2 Pin=IC2_Ch3-3
+Added Pin To Net: NetName=FPGA_TX0_C_N Pin=IC2_Ch3-4
+Added Pin To Net: NetName=NetIC2_Ch3_5 Pin=IC2_Ch3-5
+Added Pin To Net: NetName=1V8 Pin=IC2_Ch3-8
+Added Pin To Net: NetName=SFP_TX0_N Pin=IC2_Ch3-9
+Added Pin To Net: NetName=SFP_TX0_P Pin=IC2_Ch3-10
+Added Pin To Net: NetName=IN_Ch3_N Pin=IC2_Ch3-11
+Added Pin To Net: NetName=IN_Ch3_P Pin=IC2_Ch3-12
+Added Pin To Net: NetName=1V8 Pin=IC2_Ch3-13
+Added Pin To Net: NetName=GND Pin=IC2_Ch3-16
+Added Pin To Net: NetName=GND Pin=IC2_Ch3-17
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

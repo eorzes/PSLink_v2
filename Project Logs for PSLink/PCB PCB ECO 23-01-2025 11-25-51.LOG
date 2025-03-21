@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=BEAT_1_P Pin=J4-H10
+Removed Pin From Net: NetName=BEAT_1_N Pin=J4-H11
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Pin To Net: NetName=BEAT_1_P Pin=J4-H19
+Added Pin To Net: NetName=BEAT_1_N Pin=J4-H20
+Change Net Color : Old Net Color=RGB(161, 0, 106) New Net Color=Black
+Change Net Color : Old Net Color=RGB(161, 0, 106) New Net Color=Black
+Change Net Color : Old Net Color=RGB(161, 0, 106) New Net Color=Black
+Change Net Color : Old Net Color=RGB(161, 0, 106) New Net Color=Black
+Change Net Color : Old Net Color=RGB(161, 0, 106) New Net Color=Black
+Change Net Color : Old Net Color=RGB(197, 0, 142) New Net Color=Black
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

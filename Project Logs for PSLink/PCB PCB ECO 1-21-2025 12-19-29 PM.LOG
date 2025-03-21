@@ -1,0 +1,42 @@
+Removed Member From Class: ClassName=U_SFP Member=C83
+Removed Member From Class: ClassName=U_FMC Member=C100
+Removed Member From Class: ClassName=U_FMC Member=C102
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Member To Class: ClassName=U_SFP Member=Component C68 100nF
+Added Member To Class: ClassName=U_SFP Member=Component C70 100nF
+Added Member To Class: ClassName=U_SFP Member=Component C72 22uF
+Added Member To Class: ClassName=U_SFP Member=Component C74 100nF
+Added Member To Class: ClassName=U_SFP Member=Component C76 100nF
+Added Member To Class: ClassName=U_SFP Member=Component C78 22uF
+Added Member To Class: ClassName=U_SFP Member=Component C80 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C82 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C84 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C86 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C88 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C93 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C95 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C97 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C99 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C101 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C103 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C105 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C107 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C109 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C111 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C113 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C115 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C117 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C119 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C120 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C121 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C122 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C123 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C124 10uF
+Added Member To Class: ClassName=U_PLL Member=Component C125 470nF
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

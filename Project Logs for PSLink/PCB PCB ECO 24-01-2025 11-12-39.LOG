@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SCL_CDR_1 Pin=R55-1
+Removed Pin From Net: NetName=SDA_CDR_1 Pin=R55-2
+Removed Pin From Net: NetName=SCL_CDR_0 Pin=R55-3
+Removed Pin From Net: NetName=SDA_CDR_0 Pin=R55-4
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Pin To Net: NetName=SDA_CDR_0 Pin=R55-1
+Added Pin To Net: NetName=SCL_CDR_0 Pin=R55-2
+Added Pin To Net: NetName=SDA_CDR_1 Pin=R55-3
+Added Pin To Net: NetName=SCL_CDR_1 Pin=R55-4
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

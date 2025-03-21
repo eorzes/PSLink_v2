@@ -1,0 +1,35 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=IC8(QFN50P300X300X100-17N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nb7vq14mmnhtbg/on-semiconductor?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/NB7VQ14M-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NB7VQ14MMNHTBG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/NB7VQ14MMNHTBG?qs=3PKVEWFFm2%2FWq%2FFZ4xstfg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DDCLKC_P Pin=IC8-1
+Added Pin To Net: NetName=NetC112_2 Pin=IC8-2
+Added Pin To Net: NetName=NetC112_2 Pin=IC8-3
+Added Pin To Net: NetName=DDCLKC_N Pin=IC8-4
+Added Pin To Net: NetName=NetIC8_5 Pin=IC8-5
+Added Pin To Net: NetName=DDCLK3_N Pin=IC8-6
+Added Pin To Net: NetName=DDCLK3_P Pin=IC8-7
+Added Pin To Net: NetName=1V8 Pin=IC8-8
+Added Pin To Net: NetName=DDCLK2_N Pin=IC8-9
+Added Pin To Net: NetName=DDCLK2_P Pin=IC8-10
+Added Pin To Net: NetName=DDCLK1_N Pin=IC8-11
+Added Pin To Net: NetName=DDCLK1_P Pin=IC8-12
+Added Pin To Net: NetName=1V8 Pin=IC8-13
+Added Pin To Net: NetName=DDCLK0_N Pin=IC8-14
+Added Pin To Net: NetName=DDCLK0_P Pin=IC8-15
+Added Pin To Net: NetName=GND Pin=IC8-16
+Added Pin To Net: NetName=GND Pin=IC8-17
+Added Member To Class: ClassName=U_PLL Member=Component IC8 NB7VQ14MMNHTBG
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

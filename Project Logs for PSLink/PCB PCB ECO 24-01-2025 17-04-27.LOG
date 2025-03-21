@@ -1,0 +1,84 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=LED1_Ch0(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED1_Ch1(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED1_Ch2(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED1_Ch3(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2_Ch0(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2_Ch1(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2_Ch2(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2_Ch3(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED5(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED6(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED1_Ch0_1 Pin=LED1_Ch0-1
+Added Pin To Net: NetName=NetLED1_Ch0_2 Pin=LED1_Ch0-2
+Added Pin To Net: NetName=NetLED1_Ch1_1 Pin=LED1_Ch1-1
+Added Pin To Net: NetName=NetLED1_Ch1_2 Pin=LED1_Ch1-2
+Added Pin To Net: NetName=NetLED1_Ch2_1 Pin=LED1_Ch2-1
+Added Pin To Net: NetName=NetLED1_Ch2_2 Pin=LED1_Ch2-2
+Added Pin To Net: NetName=NetLED1_Ch3_1 Pin=LED1_Ch3-1
+Added Pin To Net: NetName=NetLED1_Ch3_2 Pin=LED1_Ch3-2
+Added Pin To Net: NetName=NetLED2_Ch0_1 Pin=LED2_Ch0-1
+Added Pin To Net: NetName=NetLED2_Ch0_2 Pin=LED2_Ch0-2
+Added Pin To Net: NetName=NetLED2_Ch1_1 Pin=LED2_Ch1-1
+Added Pin To Net: NetName=NetLED2_Ch1_2 Pin=LED2_Ch1-2
+Added Pin To Net: NetName=NetLED2_Ch2_1 Pin=LED2_Ch2-1
+Added Pin To Net: NetName=NetLED2_Ch2_2 Pin=LED2_Ch2-2
+Added Pin To Net: NetName=NetLED2_Ch3_1 Pin=LED2_Ch3-1
+Added Pin To Net: NetName=NetLED2_Ch3_2 Pin=LED2_Ch3-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Member To Class: ClassName=U_SFP Member=Component LED3 APTD1608LSECKJ3-PF
+Added Member To Class: ClassName=U_SFP Member=Component LED4 APTD1608LSECKJ3-PF
+Added Member To Class: ClassName=U_SFP Member=Component LED5 APTD1608LSECKJ3-PF
+Added Member To Class: ClassName=U_SFP Member=Component LED6 APTD1608LSECKJ3-PF
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

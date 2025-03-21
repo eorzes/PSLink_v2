@@ -1,0 +1,69 @@
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Component: Designator=IC3(SON50P300X300X85-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ADP7159ACPZ-04-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/adp7159acpz-04-r7/analog-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7159.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADP7159ACPZ-04-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADP7159ACPZ04R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP7159ACPZ-04-R7?qs=JeIcUl65ClBXEAZRPtHUVQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(SON50P300X300X85-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ADP7159ACPZ-04-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/adp7159acpz-04-r7/analog-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7159.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADP7159ACPZ-04-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADP7159ACPZ04R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP7159ACPZ-04-R7?qs=JeIcUl65ClBXEAZRPtHUVQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC5(SON50P300X300X85-11N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ADP7159ACPZ-04-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/adp7159acpz-04-r7/analog-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/ADP7159.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADP7159ACPZ-04-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADP7159ACPZ04R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP7159ACPZ-04-R7?qs=JeIcUl65ClBXEAZRPtHUVQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3APLL Pin=IC3-1
+Added Pin To Net: NetName=3V3APLL Pin=IC3-2
+Added Pin To Net: NetName=3V3APLL Pin=IC3-3
+Added Pin To Net: NetName=NetC44_2 Pin=IC3-4
+Added Pin To Net: NetName=3V3APLL_EN Pin=IC3-5
+Added Pin To Net: NetName=NetIC3_6 Pin=IC3-6
+Added Pin To Net: NetName=NetC43_2 Pin=IC3-7
+Added Pin To Net: NetName=NetC46_2 Pin=IC3-8
+Added Pin To Net: NetName=P3V6 Pin=IC3-9
+Added Pin To Net: NetName=P3V6 Pin=IC3-10
+Added Pin To Net: NetName=GND Pin=IC3-11
+Added Pin To Net: NetName=3V3CDR Pin=IC4-1
+Added Pin To Net: NetName=3V3CDR Pin=IC4-2
+Added Pin To Net: NetName=3V3CDR Pin=IC4-3
+Added Pin To Net: NetName=NetC56_2 Pin=IC4-4
+Added Pin To Net: NetName=3V3CDR_EN Pin=IC4-5
+Added Pin To Net: NetName=NetIC4_6 Pin=IC4-6
+Added Pin To Net: NetName=NetC55_2 Pin=IC4-7
+Added Pin To Net: NetName=NetC58_2 Pin=IC4-8
+Added Pin To Net: NetName=P3V6 Pin=IC4-9
+Added Pin To Net: NetName=P3V6 Pin=IC4-10
+Added Pin To Net: NetName=GND Pin=IC4-11
+Added Pin To Net: NetName=1V8 Pin=IC5-1
+Added Pin To Net: NetName=1V8 Pin=IC5-2
+Added Pin To Net: NetName=1V8 Pin=IC5-3
+Added Pin To Net: NetName=NetC63_2 Pin=IC5-4
+Added Pin To Net: NetName=1V8_EN Pin=IC5-5
+Added Pin To Net: NetName=NetIC5_6 Pin=IC5-6
+Added Pin To Net: NetName=NetC62_2 Pin=IC5-7
+Added Pin To Net: NetName=NetC65_2 Pin=IC5-8
+Added Pin To Net: NetName=P3V3 Pin=IC5-9
+Added Pin To Net: NetName=P3V3 Pin=IC5-10
+Added Pin To Net: NetName=GND Pin=IC5-11
+Added Member To Class: ClassName=U_PLL Member=Component IC7 SI5345B-D-GM
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=BEAT_2_P Pin=J4-G15
+Removed Pin From Net: NetName=BEAT_2_N Pin=J4-G16
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Pin To Net: NetName=BEAT_2_P Pin=J4-G18
+Added Pin To Net: NetName=BEAT_2_N Pin=J4-G19
+Added Member To Class: ClassName=U_FMC Member=Component J4 SEAM-40-03.5-S-10-2-A-K-TR
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)
