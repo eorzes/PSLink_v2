@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DDCLK1_P Pin=IC1_Ch3-6
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Added Pin To Net: NetName=DMTD_CLK_3_P Pin=IC1_Ch3-6
+Added Member To Class: ClassName=Back-Drill Member=Wire DDCLK3_N
+Added Member To Class: ClassName=Back-Drill Member=Wire DDCLK3_P
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)

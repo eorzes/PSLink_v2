@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=C91-1
+Removed Pin From Net: NetName=1V8 Pin=C91-2
+Removed Pin From Net: NetName=GND Pin=C92-1
+Removed Pin From Net: NetName=1V8 Pin=C92-2
+Removed Pin From Net: NetName=GND Pin=C94-1
+Removed Pin From Net: NetName=1V8 Pin=C94-2
+Removed Pin From Net: NetName=GND Pin=C95-1
+Removed Pin From Net: NetName=1V8 Pin=C95-2
+Removed Member From Class: ClassName=U_PLL Member=C91
+Removed Member From Class: ClassName=U_PLL Member=C92
+Removed Member From Class: ClassName=U_PLL Member=C94
+Removed Member From Class: ClassName=U_PLL Member=C95
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)
