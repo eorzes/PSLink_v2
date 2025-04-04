@@ -1,0 +1,183 @@
+Removed Pin From Net: NetName=P3V3 Pin=C34-2
+Removed Pin From Net: NetName=P3V3 Pin=IC5-9
+Removed Pin From Net: NetName=P3V3 Pin=IC5-10
+Removed Member From Class: ClassName=Power Member=P3V3
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Footprint: Cannot match pads with new footprint in component :L2 Footprint:DFE322520FD1R0MP2
+Change Footprint: Cannot match pads with new footprint in component :L3 Footprint:DFE322520FD1R0MP2
+Change Footprint: Cannot match pads with new footprint in component :L4 Footprint:DFE322520FD1R0MP2
+Change Footprint: Cannot match pads with new footprint in component :L5 Footprint:DFE322520FD1R0MP2
+Change Component Designator: OldDesignator=mx NewDesignator=R10
+Change component parameters: Designator = "L2" ("L2"); Footprint = "IND_MURATA_LQH32C"; UniqueID = "\XBCLDFEG\JORFKKUM" ("\XBCLDFEG\JORFKKUM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dfe322520fd-4r7mp2/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-9104.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-DFE322520FD4R7MP2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/DFE322520FD-4R7M%3dP2?qs=17u8i%2FzlE8%252BgAY54mivQ1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L3" ("L3"); Footprint = "IND_MURATA_LQH32C"; UniqueID = "\XBCLDFEG\QBUOHBEO" ("\XBCLDFEG\QBUOHBEO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dfe322520fd-4r7mp2/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-9104.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-DFE322520FD4R7MP2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/DFE322520FD-4R7M%3dP2?qs=17u8i%2FzlE8%252BgAY54mivQ1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L4" ("L4"); Footprint = "IND_MURATA_LQH32C"; UniqueID = "\XBCLDFEG\EJOVYLJF" ("\XBCLDFEG\EJOVYLJF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dfe322520fd-4r7mp2/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-9104.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-DFE322520FD4R7MP2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/DFE322520FD-4R7M%3dP2?qs=17u8i%2FzlE8%252BgAY54mivQ1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L5" ("L5"); Footprint = "IND_MURATA_LQH32C"; UniqueID = "\XBCLDFEG\NKMBYKVQ" ("\XBCLDFEG\NKMBYKVQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dfe322520fd-4r7mp2/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-9104.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-DFE322520FD4R7MP2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/DFE322520FD-4R7M%3dP2?qs=17u8i%2FzlE8%252BgAY54mivQ1g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C7(MURATA_HI_DENSITY_0402_CAP)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmax"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C91(MURATA_HI_DENSITY_0402_CAP)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmax"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C92(MURATA_HI_DENSITY_0402_CAP)
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vmax"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=L1(DFE322520FD1R0MP2)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dfe322520fd-4r7mp2/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-9104.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DFE322520FD-4R7M=P2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-DFE322520FD4R7MP2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/DFE322520FD-4R7M%3dP2?qs=17u8i%2FzlE8%252BgAY54mivQ1g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R46(RESC1005X40N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "12/3/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "10/17/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "YAGEO PHYCOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "232270671004L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "R0402_100K_1%_0.0625W_100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "General Purpose Thick Film Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0402_100K_1%_0.0625W_100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.0625W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R47(RESC1005X40N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "12/3/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "10/17/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "YAGEO PHYCOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "232270671004L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "R0402_100K_1%_0.0625W_100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "General Purpose Thick Film Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0402_100K_1%_0.0625W_100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.0625W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R48(RESC1005X40N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "12/3/2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\R0402_Phycomp_RC0402.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "10/17/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 ComponentHeight"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Example"; Value = "YAGEO PHYCOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer1 Part Number"; Value = "232270671004L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "R0402_100K_1%_0.0625W_100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "General Purpose Thick Film Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "R0402_100K_1%_0.0625W_100PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.0625W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Not Recommended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RDJ0023A-MFG
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C91-1
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=P3V3 Pin=C92-2
+Added Pin To Net: NetName=NetC21_1 Pin=L1-1
+Added Pin To Net: NetName=P3V6 Pin=L1-2
+Added Pin To Net: NetName=P3V3 Pin=R46-2
+Added Pin To Net: NetName=GND Pin=R48-1
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U3-10
+Add Pin To Net: Unknown Pin: Pin U3-11
+Add Pin To Net: Unknown Pin: Pin U3-18
+Add Pin To Net: Unknown Pin: Pin U3-19
+Add Pin To Net: Unknown Pin: Pin U3-20
+Add Pin To Net: Unknown Pin: Pin U3-21
+Add Pin To Net: Unknown Pin: Pin U3-22
+Add Pin To Net: Unknown Pin: Pin U3-23
+Added Pin To Net: NetName=NetR46_1 Pin=R46-1
+Added Net: Name=NetR46_1
+Added Pin To Net: NetName=NetR47_1 Pin=R47-1
+Added Pin To Net: NetName=NetR47_1 Pin=R48-2
+Added Net: Name=NetR47_1
+Added Pin To Net: NetName=P2V05 Pin=C7-2
+Added Pin To Net: NetName=P2V05 Pin=C34-2
+Added Pin To Net: NetName=P2V05 Pin=C91-2
+Added Pin To Net: NetName=P2V05 Pin=IC5-9
+Added Pin To Net: NetName=P2V05 Pin=IC5-10
+Added Pin To Net: NetName=P2V05 Pin=R47-2
+Added Net: Name=P2V05
+Added Member To Class: ClassName=Power Member=Wire P2V05
+Add Class Member: Failed to add class member : Ch0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : Ch3 (Channel.SchDoc)
