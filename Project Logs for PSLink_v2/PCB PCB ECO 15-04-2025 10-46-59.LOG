@@ -1,0 +1,73 @@
+Removed Member From Class: ClassName=U_PLL Member=C35
+Removed Member From Class: ClassName=U_PLL Member=C36
+Removed Member From Class: ClassName=U_SFP Member=C57
+Removed Member From Class: ClassName=U_SFP Member=C59
+Removed Member From Class: ClassName=U_SFP Member=C61
+Removed Member From Class: ClassName=U_PLL Member=C103
+Removed Member From Class: ClassName=U_PLL Member=C104
+Removed Member From Class: ClassName=U_PLL Member=C105
+Removed Member From Class: ClassName=U_PLL Member=C106
+Removed Member From Class: ClassName=U_PLL Member=C107
+Removed Member From Class: ClassName=U_SFP Member=IC7
+Removed Member From Class: ClassName=U_FMC Member=R14
+Removed Member From Class: ClassName=U_FMC Member=R21
+Removed Member From Class: ClassName=U_SFP Member=R21
+Removed Member From Class: ClassName=U_SFP Member=R48
+Removed Member From Class: ClassName=U_phase-shifters Member=U2
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Change Net Color : Old Net Color=RGB(135, 28, 174) New Net Color=Default
+Added Member To Class: ClassName=U_SFP Member=Component C45 100nF
+Added Member To Class: ClassName=U_SFP Member=Component C47 100nF
+Added Member To Class: ClassName=U_SFP Member=Component C49 22uF
+Added Member To Class: ClassName=U_SFP Member=Component C51 100nF
+Added Member To Class: ClassName=U_SFP Member=Component C53 100nF
+Added Member To Class: ClassName=U_SFP Member=Component C54 100nF
+Added Member To Class: ClassName=U_SFP Member=Component C55 22uF
+Added Member To Class: ClassName=U_SFP Member=Component C56 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C58 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C60 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C62 100nF
+Added Member To Class: ClassName=U_FMC Member=Component C64 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C69 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C70 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C71 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C72 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C73 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C77 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C80 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C81 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C82 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C83 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C84 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C85 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C87 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C89 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C91 100nF
+Added Member To Class: ClassName=U_PLL Member=Component C93 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C96 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C98 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C99 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C100 1uF
+Added Member To Class: ClassName=U_PLL Member=Component C101 10uF
+Added Member To Class: ClassName=U_SFP Member=Component IC6 PT1000 SMD 1206 fd F 0,3
+Added Member To Class: ClassName=U_SFP Member=Component R30 1k5
+Added Member To Class: ClassName=U_SFP Member=Component R34 10k
+Added Member To Class: ClassName=U_SFP Member=Component R35 200k
+Added Member To Class: ClassName=U_SFP Member=Component R36 200k
+Added Member To Class: ClassName=U_SFP Member=Component R38 1k5
+Added Member To Class: ClassName=U_SFP Member=Component R42 10k
+Added Member To Class: ClassName=U_SFP Member=Component R43 200k
+Added Member To Class: ClassName=U_SFP Member=Component R45 10k
+Added Member To Class: ClassName=U_FMC Member=Component R46 10k
+Added Member To Class: ClassName=U_FMC Member=Component R47 10k
+Added Member To Class: ClassName=U_PLL Member=Component R57 22
+Added Member To Class: ClassName=U_FMC Member=Component RN1 EXB-U18103JX
+Added Member To Class: ClassName=U_phase-shifters Member=Component U3 TXB0104RUTR
+Added Member To Class: ClassName=U_SFP Member=Component W2 Header 2
+Add Class Member: Failed to add class member : l0 (Channel.SchDoc)
+Add Class Member: Failed to add class member : l1 (Channel.SchDoc)
+Add Class Member: Failed to add class member : l2 (Channel.SchDoc)
+Add Class Member: Failed to add class member : l3 (Channel.SchDoc)
