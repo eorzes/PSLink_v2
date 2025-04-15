@@ -1,0 +1,67 @@
+Added Component: Designator=D1(LED_APHHS1005LZGCK-V)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/APHHS1005LZGCK-V/Kingbright/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "APHHS1005LZGCK-V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 Kingbright Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/APHHS1005LZGCK-V/Kingbright/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_APHHS1005LZGCK-V)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/APHHS1005LZGCK-V/Kingbright/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "APHHS1005LZGCK-V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 Kingbright Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/APHHS1005LZGCK-V/Kingbright/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED_APHHS1005LZGCK-V)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/APHHS1005LZGCK-V/Kingbright/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kingbright Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "APHHS1005LZGCK-V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 Kingbright Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/APHHS1005LZGCK-V/Kingbright/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(LEDC1608X110N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "APTD1608LVBC/D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/aptd1608lvbcd/kingbright?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/APTD1608LVBC_D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "APTD1608LVBC/D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "604-APTD1608LVBCD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Kingbright/APTD1608LVBC-D?qs=6oMev5NRZMEfNSg5xIhlKA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED_APTD1608LSECKJ3-PF_KNB)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Member To Class: ClassName=U_PLL Member=Component D5 APTD1608LVBC_D
+Added Member To Class: ClassName=U_SFP Member=Component LED1 APTD1608LSECKJ3-PF
+Added Member To Class: ClassName=U_SFP Member=Component LED2 APTD1608LSECKJ3-PF
+Added Member To Class: ClassName=U_SFP Member=Component LED3 APTD1608LSECKJ3-PF
+Added Member To Class: ClassName=U_SFP Member=Component LED4 APTD1608LSECKJ3-PF

@@ -1,0 +1,17 @@
+Added Component: Designator=U3(RUT12_TEX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VADJ Pin=U3-1
+Added Pin To Net: NetName=S_IN_PS Pin=U3-2
+Added Pin To Net: NetName=CLK_PS Pin=U3-3
+Added Pin To Net: NetName=LE_PS Pin=U3-4
+Added Pin To Net: NetName=SDO_PS Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=SDO2_3V3 Pin=U3-7
+Added Pin To Net: NetName=LE_3V3 Pin=U3-8
+Added Pin To Net: NetName=CLK_3V3 Pin=U3-9
+Added Pin To Net: NetName=SI_3V3 Pin=U3-10
+Added Pin To Net: NetName=P3V3 Pin=U3-11
+Added Pin To Net: NetName=OE_LS Pin=U3-12
+Added Member To Class: ClassName=U_phase-shifters Member=Component U3 TXB0104RUTR

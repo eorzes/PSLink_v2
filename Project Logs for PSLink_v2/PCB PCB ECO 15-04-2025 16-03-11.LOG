@@ -1,0 +1,9 @@
+Change component parameters: Designator = "D5" ("D5"); Footprint = "LEDC1608X110N"; UniqueID = "\GSHSBSOJ\BVPMYILJ" ("\GSHSBSOJ\BVPMYILJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "APTD1608LVBC/D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/aptd1608lvbcd/kingbright?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/APTD1608LVBC_D.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "APTD1608LVBC/D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "604-APTD1608LVBCD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Kingbright/APTD1608LVBC-D?qs=6oMev5NRZMEfNSg5xIhlKA%3D%3D"; VariantName = "[No Variations]"
