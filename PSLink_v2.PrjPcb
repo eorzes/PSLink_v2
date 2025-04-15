@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZTQQZDHP
 
 [Document6]
-DocumentPath=Channel.SchDoc
+DocumentPath=lane.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
