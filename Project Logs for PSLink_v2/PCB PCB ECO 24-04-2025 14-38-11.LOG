@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=P3V3 Pin=C66-2
+Removed Pin From Net: NetName=VADJ Pin=D4-1
+Removed Pin From Net: NetName=OE_LS Pin=D4-2
+Removed Pin From Net: NetName=P3V3 Pin=IC8-1
+Removed Pin From Net: NetName=P3V3 Pin=IC8-2
+Removed Pin From Net: NetName=P3V3 Pin=IC8-14
+Removed Pin From Net: NetName=OE_LS Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R24-2
+Removed Pin From Net: NetName=P3V3 Pin=R25-1
+Removed Pin From Net: NetName=OE_LS Pin=R25-2
+Added Pin To Net: NetName=VADJ Pin=C66-2
+Added Pin To Net: NetName=VADJ Pin=IC8-1
+Added Pin To Net: NetName=VADJ Pin=IC8-2
+Added Pin To Net: NetName=OE_LS Pin=IC8-3
+Added Pin To Net: NetName=VADJ Pin=IC8-14
+Added Pin To Net: NetName=OE_LS Pin=J4-G18
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=OE_LS Pin=R24-2
+Added Pin To Net: NetName=NetIC8_11 Pin=IC8-11
+Added Pin To Net: NetName=NetIC8_11 Pin=RN1-4
+Added Net: Name=NetIC8_11
+Added Member To Class: ClassName=U_FMC Member=Component R24 10k
