@@ -1,0 +1,95 @@
+Added Component: Designator=TP1(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP9(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP10(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP11(TP+195X110)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity AMP Connectors'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RCU-0C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3APLL Pin=TP1-1
+Added Pin To Net: NetName=P3V6 Pin=TP2-1
+Added Pin To Net: NetName=3V3PS Pin=TP3-1
+Added Pin To Net: NetName=P2V05 Pin=TP4-1
+Added Pin To Net: NetName=P12V Pin=TP5-1
+Added Pin To Net: NetName=P3V3 Pin=TP6-1
+Added Pin To Net: NetName=VADJ Pin=TP7-1
+Added Pin To Net: NetName=SDO2_3V3 Pin=TP8-1
+Added Pin To Net: NetName=SI_3V3 Pin=TP9-1
+Added Pin To Net: NetName=CLK_3V3 Pin=TP10-1
+Added Pin To Net: NetName=LE_3V3 Pin=TP11-1
+Added Member To Class: ClassName=U_FMC Member=Component TP5 RCU-0C
+Added Member To Class: ClassName=U_FMC Member=Component TP6 RCU-0C
+Added Member To Class: ClassName=U_FMC Member=Component TP7 RCU-0C
+Added Member To Class: ClassName=U_phase-shifters Member=Component TP8 RCU-0C
+Added Member To Class: ClassName=U_phase-shifters Member=Component TP9 RCU-0C
+Added Member To Class: ClassName=U_phase-shifters Member=Component TP10 RCU-0C
+Added Member To Class: ClassName=U_phase-shifters Member=Component TP11 RCU-0C
