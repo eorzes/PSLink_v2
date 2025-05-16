@@ -1,0 +1,57 @@
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=R24 NewDesignator=R47
+Change Component Designator: OldDesignator=R26 NewDesignator=R24
+Change Component Designator: OldDesignator=R27 NewDesignator=R25
+Change Component Designator: OldDesignator=R28 NewDesignator=R26
+Change Component Designator: OldDesignator=R29 NewDesignator=R27
+Change Component Designator: OldDesignator=R30 NewDesignator=R28
+Change Component Designator: OldDesignator=R31 NewDesignator=R29
+Change Component Designator: OldDesignator=R32 NewDesignator=R30
+Change Component Designator: OldDesignator=R33 NewDesignator=R31
+Change Component Designator: OldDesignator=R34 NewDesignator=R32
+Change Component Designator: OldDesignator=R35 NewDesignator=R33
+Change Component Designator: OldDesignator=R36 NewDesignator=R34
+Change Component Designator: OldDesignator=R37 NewDesignator=R35
+Change Component Designator: OldDesignator=R38 NewDesignator=R36
+Change Component Designator: OldDesignator=R39 NewDesignator=R37
+Change Component Designator: OldDesignator=R40 NewDesignator=R38
+Change Component Designator: OldDesignator=R41 NewDesignator=R39
+Change Component Designator: OldDesignator=R42 NewDesignator=R40
+Change Component Designator: OldDesignator=R43 NewDesignator=R41
+Change Component Designator: OldDesignator=R44 NewDesignator=R42
+Change Component Designator: OldDesignator=R45 NewDesignator=R43
+Change Component Designator: OldDesignator=R46 NewDesignator=R44
+Change Component Designator: OldDesignator=R47 NewDesignator=R45
+Change Component Designator: OldDesignator=R48 NewDesignator=R46
+Change Component Designator: OldDesignator=R49 NewDesignator=R48
+Change Component Designator: OldDesignator=R50 NewDesignator=R49
+Change Component Designator: OldDesignator=R51 NewDesignator=R50
+Change Component Designator: OldDesignator=R52 NewDesignator=R51
+Change Component Designator: OldDesignator=R53 NewDesignator=R52
+Change Component Designator: OldDesignator=R54 NewDesignator=R53
+Change Component Designator: OldDesignator=R55 NewDesignator=R54
+Change Component Designator: OldDesignator=R56 NewDesignator=R55
+Change Component Designator: OldDesignator=R57 NewDesignator=R56
+Change Component Designator: OldDesignator=R58 NewDesignator=R57
+Change Component Designator: OldDesignator=R59 NewDesignator=R58
+Change Component Designator: OldDesignator=R60B NewDesignator=R59B
+Change Component Designator: OldDesignator=R61B NewDesignator=R60B
+Change Component Designator: OldDesignator=R62X NewDesignator=R61X
+Change Component Designator: OldDesignator=R63X NewDesignator=R62X
+Change Component Designator: OldDesignator=R64B NewDesignator=R63B
+Change Component Designator: OldDesignator=R65B NewDesignator=R64B
+Change Component Designator: OldDesignator=R66X NewDesignator=R65X
+Change Component Designator: OldDesignator=R67X NewDesignator=R66X
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP12
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP13
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP13 NewDesignator=TP5
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetR56_1 New Net Name=NetR55_1
+Change Net Name : Old Net Name=NetR57_1 New Net Name=NetR56_1

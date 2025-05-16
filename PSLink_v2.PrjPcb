@@ -1070,6 +1070,10 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for PSLink_v2\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for PSLink\PSLink.xlsx
 DItemRevisionGUID=
 
