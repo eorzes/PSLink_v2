@@ -1,0 +1,20 @@
+DRC Rules Export File for PCB: C:\Altium-new\PSLink_v2\PCB.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_via_diff|Scope=Board|Minimum=4.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_laser|Scope=Board|Minimum=2.95
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_copper_keepout|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_SMA_pad_pad|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_SMA_pad|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_Coplanar_SE_clocks|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_Coplanar_SE_ustrip|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_Coplanar_SE_top|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_Coplanar_clocks|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_Coplanar_ustrip|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_Coplanar_top|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_XTAL|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.50
+RuleKind=Width|RuleName=Width_50O|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Via|Scope=Board|Minimum=4.00
